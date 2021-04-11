@@ -1,0 +1,29 @@
+{
+  "Artists": [
+    {
+      "id": 1,
+      "name": "The Weeknd",
+      "album": "https://i.imgur.com/8QeBymp.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Khalid",
+      "album": "https://m.media-amazon.com/images/M/MV5BNTA2NWNjN2EtNmY3Ny00YjU2LWEwMjMtZjAxZWI5N2FlZDFjXkEyXkFqcGdeQXVyMzAyOTU3NDg@._V1_.jpg"
+    },
+    {
+      "id": 1,
+      "name": "bruno",
+      "album": "https://images-na.ssl-images-amazon.com/images/I/41NKk2fHW6L.jpg"
+    },
+    {
+      "id": 1,
+      "name": "sam-smith",
+      "album": "https://lh3.googleusercontent.com/proxy/y56uTd3wVXcFUyN5Lx7IN3KgTiF_XyqpneW0EVL64K9Kund9Wu1-3X3-Q7ds3ij_0yc4Gto-Cr7szQG-zwb4DkfuzqRrNkBihwHi5azrOWCUaV89wXlY"
+    },
+    {
+      "id": 1,
+      "name": "Rihanna",
+      "album": "https://m.media-amazon.com/images/M/MV5BNmI5MDZlMWItYzdhZS00ODgyLThkNmMtZDFjNjg3ZGU5MzYyXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_.jpg"
+    }
+  ]
+}

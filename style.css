@@ -1,0 +1,57 @@
+html {
+  background-color: rgb(235, 214, 199);
+}
+h1 {
+  color: blueviolet;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h3 {
+  color: blueviolet;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+#buttons {
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  margin-right: 20px;
+  border: 1px solid blueviolet;
+  background: blueviolet;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 16px 24px;
+  border-radius: 30px;
+  transition: all 200ms ease;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  cursor: pointer;
+}
+
+button:hover {
+  background: white;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+}
+
+#song {
+  text-align: center;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  width: 400px;
+  height: 300px;
+  padding-bottom: 35px;
+}
+
+table {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  padding-top: 50px;
+}
